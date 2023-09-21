@@ -17,7 +17,7 @@ const noiDung2 = {
 
 app.get('/', (req, res) => {
     console.log('Sent information successfully');
-    res.send("PHAM THANH DAT UIT");
+    res.send("Xin Chao! Thiều Huy Hoàng - 20521350 đây!");
 })
 
 app.get('/truong', (req, res) => {
